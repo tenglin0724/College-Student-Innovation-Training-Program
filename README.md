@@ -1,7 +1,7 @@
 # College-Student-Innovation-Training-Program
-###主要内容
+### 主要内容
 搭建一个可以支持播放录播视频，查看后台信息的简易网页，是本人的网页技术的练习项目。使用架构为前后端分离的Vue+Springboot。
-###运行环境
+### 运行环境
 + 前端环境
 	+ Node.js v18.16.1.
 	+ vue 3.3.4
